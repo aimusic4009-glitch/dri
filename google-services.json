@@ -1,0 +1,49 @@
+ {
+  "project_info": {
+    "project_number": "142861545293",
+    "firebase_url": "https://aletwende-default-rtdb.firebaseio.com",
+    "project_id": "aletwende",
+    "storage_bucket": "aletwende.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142861545293:android:0bd5179346a73a69e19104",
+        "android_client_info": {
+          "package_name": "com.twende.client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnAPopzleU0fCAOusKMhEDVGwQUeuQig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142861545293:android:945465932edfe861e19104",
+        "android_client_info": {
+          "package_name": "com.twende.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnAPopzleU0fCAOusKMhEDVGwQUeuQig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,54 @@
+{
+  "Cars": {
+    "Audi": { "models": ["A1", "A3", "A4", "Q3", "Q5", "Q7"], "maxSeats": 5 },
+    "Toyota": { "models": ["Corolla", "Hilux", "Land Cruiser", "Yaris", "Camry", "Vitz", "Fortuner", "Prado"], "maxSeats": 7 },
+    "BMW": { "models": ["3 Series", "5 Series", "X3", "X5", "X6"], "maxSeats": 5 },
+    "Mercedes": { "models": ["C-Class", "E-Class", "GLA", "GLC", "GLE"], "maxSeats": 5 },
+    "Nissan": { "models": ["Almera", "X-Trail", "Qashqai", "Patrol", "Navara"], "maxSeats": 7 },
+    "Honda": { "models": ["Civic", "Accord", "CR-V", "Fit", "HR-V"], "maxSeats": 5 },
+    "Mazda": { "models": ["Mazda2", "Mazda3", "CX-3", "CX-5", "Demio"], "maxSeats": 5 },
+    "Volkswagen": { "models": ["Polo", "Golf", "Passat", "Tiguan", "Touareg"], "maxSeats": 5 },
+    "Suzuki": { "models": ["Swift", "Vitara", "Alto", "Jimny"], "maxSeats": 5 },
+    "Ford": { "models": ["Fiesta", "Focus", "Ranger", "Everest"], "maxSeats": 7 },
+    "Hyundai": { "models": ["i10", "i20", "Tucson", "Santa Fe", "Creta"], "maxSeats": 7 },
+    "Mitsubishi": { "models": ["Mirage", "Outlander", "Pajero", "L200"], "maxSeats": 7 }
+  },
+  "CarDelivery": {
+    "Audi": { "models": ["A1", "A3", "A4", "Q3", "Q5", "Q7"], "maxSeats": 0 },
+    "Toyota": { "models": ["Corolla", "Hilux", "Land Cruiser", "Yaris", "Camry", "Vitz", "Fortuner", "Prado"], "maxSeats": 0 },
+    "BMW": { "models": ["3 Series", "5 Series", "X3", "X5", "X6"], "maxSeats": 0 },
+    "Mercedes": { "models": ["C-Class", "E-Class", "GLA", "GLC", "GLE"], "maxSeats": 0 },
+    "Nissan": { "models": ["Almera", "X-Trail", "Qashqai", "Patrol", "Navara"], "maxSeats": 0 },
+    "Honda": { "models": ["Civic", "Accord", "CR-V", "Fit", "HR-V"], "maxSeats": 0 },
+    "Mazda": { "models": ["Mazda2", "Mazda3", "CX-3", "CX-5", "Demio"], "maxSeats": 0 },
+    "Volkswagen": { "models": ["Polo", "Golf", "Passat", "Tiguan", "Touareg"], "maxSeats": 0 },
+    "Suzuki": { "models": ["Swift", "Vitara", "Alto", "Jimny"], "maxSeats": 0 },
+    "Ford": { "models": ["Fiesta", "Focus", "Ranger", "Everest"], "maxSeats": 0 },
+    "Hyundai": { "models": ["i10", "i20", "Tucson", "Santa Fe", "Creta"], "maxSeats": 0 },
+    "Mitsubishi": { "models": ["Mirage", "Outlander", "Pajero", "L200"], "maxSeats": 0 }
+  },
+  "Minibuses": {
+    "Toyota": { "models": ["Quantum", "Hiace"], "maxSeats": 15 },
+    "Mercedes": { "models": ["Sprinter"], "maxSeats": 20 },
+    "Volkswagen": { "models": ["Transporter", "Crafter"], "maxSeats": 17 },
+    "Hyundai": { "models": ["H1", "H100 Bus"], "maxSeats": 12 },
+    "Nissan": { "models": ["Caravan", "Urvan"], "maxSeats": 14 },
+    "Ford": { "models": ["Transit"], "maxSeats": 15 }
+  },
+  "Delivery": {
+    "Motorbikes": {
+      "Yamaha": { "models": ["YZF-R1", "MT-07", "FZ-S"] },
+      "Honda": { "models": ["CBR 150", "CBR 500", "Shine"] },
+      "Bajaj": { "models": ["Boxer 150", "Pulsar 150", "Pulsar 220"] },
+      "TVS": { "models": ["Apache", "Sport"] },
+      "Suzuki": { "models": ["GS150", "Hayabusa"] }
+    },
+    "SmallTrucks": {
+      "Hyundai": { "models": ["H100"] },
+      "Kia": { "models": ["K2700"] },
+      "Toyota": { "models": ["Dyna"] },
+      "Isuzu": { "models": ["NKR", "NPR"] },
+      "Nissan": { "models": ["Cabstar"] }
+    }
+  }
+}
